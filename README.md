@@ -5,7 +5,7 @@ AWS (Amazon Web Services) operates a vast and highly secure global infrastructur
 Regions
 
 A Region is a geographically isolated area with multiple data centers.
-AWS has 33 Regions worldwide (as of 2024).
+AWS has 33 Regions worldwide as of now).
 Each Region has at least three Availability Zones (AZs).
 
 
